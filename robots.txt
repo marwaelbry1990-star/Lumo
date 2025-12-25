@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://lumo-3lk.pages.dev/sitemap.xml
